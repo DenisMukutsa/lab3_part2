@@ -1,4 +1,4 @@
-package lab3_part2;
+package lab3_part2;  
 
 public class DoubleLinkedList {
     private Element firstElement;
